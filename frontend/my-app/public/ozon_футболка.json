@@ -1,0 +1,647 @@
+{
+  "base": {
+    "delivery": {
+      "name": "Сроки доставки",
+      "key": "delivery",
+      "minTime": null,
+      "maxTime": null
+    },
+    "price": {
+      "name": "Цена",
+      "key": "currency_price",
+      "min": 117,
+      "max": 30470
+    }
+  },
+  "current": [
+    {
+      "name": "Распродажа",
+      "key": "is_promo",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ]
+    },
+    {
+      "name": "Бренд",
+      "key": "brand",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 148454281,
+          "name": "ТВОЕ"
+        },
+        {
+          "id": 19714717,
+          "name": "Апрель"
+        },
+        {
+          "id": 146499856,
+          "name": "Befree"
+        },
+        {
+          "id": 100083840,
+          "name": "Gloria Jeans"
+        },
+        {
+          "id": 81104371,
+          "name": "Happyfox"
+        },
+        {
+          "id": 72680988,
+          "name": "Селтекс"
+        },
+        {
+          "id": 87236100,
+          "name": "Zolla"
+        }
+      ],
+      "fullKey": "brand"
+    },
+    {
+      "name": "Российский размер",
+      "key": "filtersizeru",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 150370,
+          "name": "40"
+        },
+        {
+          "id": 150371,
+          "name": "42"
+        },
+        {
+          "id": 150372,
+          "name": "44"
+        },
+        {
+          "id": 150373,
+          "name": "46"
+        },
+        {
+          "id": 150374,
+          "name": "48"
+        }
+      ],
+      "fullKey": "filtersizeru"
+    },
+    {
+      "name": "Детский рост",
+      "key": "filtersizehght",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 150398,
+          "name": "146"
+        },
+        {
+          "id": 150395,
+          "name": "128"
+        },
+        {
+          "id": 150401,
+          "name": "164"
+        },
+        {
+          "id": 150394,
+          "name": "122"
+        },
+        {
+          "id": 150400,
+          "name": "158"
+        }
+      ],
+      "fullKey": "filtersizehght"
+    },
+    {
+      "name": "Вид принта",
+      "key": "typeprinttshirt",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 100261767,
+          "name": "Геометрический"
+        },
+        {
+          "id": 148272,
+          "name": "Однотонный"
+        },
+        {
+          "id": 148277,
+          "name": "Логотип"
+        },
+        {
+          "id": 162637,
+          "name": "Анималистический"
+        },
+        {
+          "id": 101124805,
+          "name": "Другое"
+        }
+      ],
+      "fullKey": "typeprinttshirt"
+    },
+    {
+      "name": "Страна-изготовитель",
+      "key": "country",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 2,
+          "name": "Россия"
+        },
+        {
+          "id": 20,
+          "name": "Китай"
+        },
+        {
+          "id": 14,
+          "name": "Узбекистан"
+        },
+        {
+          "id": 122,
+          "name": "Корея"
+        },
+        {
+          "id": 58,
+          "name": "Бангладеш"
+        }
+      ],
+      "fullKey": "country"
+    },
+    {
+      "name": "Баллы за отзывы",
+      "key": "has_points_from_reviews",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ]
+    },
+    {
+      "name": "Возрастное назначение",
+      "key": "ageo",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 33939,
+          "name": "Взрослая"
+        },
+        {
+          "id": 33940,
+          "name": "Детская"
+        }
+      ]
+    },
+    {
+      "name": "Вид спорта",
+      "key": "typesport",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 38976,
+          "name": "Бег"
+        },
+        {
+          "id": 38973,
+          "name": "Фитнес"
+        },
+        {
+          "id": 38002,
+          "name": "Футбол"
+        },
+        {
+          "id": 38011,
+          "name": "Баскетбол"
+        },
+        {
+          "id": 49198,
+          "name": "Туризм"
+        }
+      ],
+      "fullKey": "typesport"
+    },
+    {
+      "name": "Товары Premium продавцов",
+      "key": "is_high_rating_premium_seller",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ]
+    },
+    {
+      "name": "Оригинальный товар",
+      "key": "brandcertified",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ]
+    },
+    {
+      "name": "Цвет",
+      "key": "color",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 100955527,
+          "name": "Белый"
+        },
+        {
+          "id": 100955526,
+          "name": "Черный"
+        },
+        {
+          "id": 100955530,
+          "name": "Синий"
+        },
+        {
+          "id": 100955535,
+          "name": "Красный"
+        },
+        {
+          "id": 100955542,
+          "name": "Разноцветный"
+        },
+        {
+          "id": 100955528,
+          "name": "Серый"
+        },
+        {
+          "id": 100955540,
+          "name": "Зеленый"
+        },
+        {
+          "id": 100955546,
+          "name": "Бежевый"
+        },
+        {
+          "id": 100955534,
+          "name": "Розовый"
+        },
+        {
+          "id": 100955547,
+          "name": "Голубой"
+        }
+      ],
+      "fullKey": "color"
+    },
+    {
+      "name": "Материал",
+      "key": "materialfilterclothes",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 100285393,
+          "name": "Кулирка"
+        },
+        {
+          "id": 100285394,
+          "name": "Лайкра"
+        },
+        {
+          "id": 100285395,
+          "name": "Лен"
+        },
+        {
+          "id": 100285408,
+          "name": "Натуральные материалы"
+        },
+        {
+          "id": 100285424,
+          "name": "Полиэстер"
+        }
+      ],
+      "fullKey": "materialfilterclothes"
+    },
+    {
+      "name": "Стиль",
+      "key": "styleapparel",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 55228,
+          "name": "Повседневный"
+        },
+        {
+          "id": 55224,
+          "name": "Спортивный"
+        },
+        {
+          "id": 74489,
+          "name": "Домашний"
+        },
+        {
+          "id": 58692,
+          "name": "Офисный/школьный"
+        },
+        {
+          "id": 57396,
+          "name": "Вечерний/праздничный"
+        },
+        {
+          "id": 79760,
+          "name": "Пляжный"
+        }
+      ]
+    },
+    {
+      "name": "Международный размер",
+      "key": "filtersizeint",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 150350,
+          "name": "XS"
+        },
+        {
+          "id": 150351,
+          "name": "S"
+        },
+        {
+          "id": 150352,
+          "name": "M"
+        },
+        {
+          "id": 150353,
+          "name": "L"
+        },
+        {
+          "id": 150354,
+          "name": "XL"
+        }
+      ],
+      "fullKey": "filtersizeint"
+    },
+    {
+      "name": "Сделано в России",
+      "key": "is_made_in_russia",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ]
+    },
+    {
+      "name": "Коллекция",
+      "key": "simpleapparelcollection",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 101199144,
+          "name": "Осень-зима 2024"
+        },
+        {
+          "id": 101580497,
+          "name": "Весна-лето 2025"
+        },
+        {
+          "id": 101866534,
+          "name": "Осень-зима 2025"
+        },
+        {
+          "id": 176251,
+          "name": "Аутлет"
+        },
+        {
+          "id": 121322,
+          "name": "Базовая коллекция"
+        },
+        {
+          "id": 337526,
+          "name": "Школа"
+        }
+      ]
+    },
+    {
+      "name": "Детский возраст",
+      "key": "filtersizeage",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 150424,
+          "name": "16 лет"
+        },
+        {
+          "id": 150422,
+          "name": "14 лет"
+        },
+        {
+          "id": 150423,
+          "name": "15 лет"
+        },
+        {
+          "id": 150404,
+          "name": "2 мес"
+        },
+        {
+          "id": 150420,
+          "name": "12 лет"
+        }
+      ],
+      "fullKey": "filtersizeage"
+    },
+    {
+      "name": "Новинки",
+      "key": "isnew",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ]
+    },
+    {
+      "name": "Официальные магазины бренда",
+      "key": "is_official_brand_seller",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ]
+    },
+    {
+      "name": "Пол",
+      "key": "sexmaster",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 125166,
+          "name": "Мужской"
+        },
+        {
+          "id": 125165,
+          "name": "Женский"
+        },
+        {
+          "id": 135532,
+          "name": "Девочки"
+        },
+        {
+          "id": 135533,
+          "name": "Мальчики"
+        }
+      ]
+    },
+    {
+      "name": "Тип",
+      "key": "type",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 37283,
+          "name": "Футболка"
+        },
+        {
+          "id": 118258,
+          "name": "Комплект футболок"
+        },
+        {
+          "id": 101114313,
+          "name": "Футболка для малышей"
+        },
+        {
+          "id": 101117204,
+          "name": "Футболка спортивная"
+        },
+        {
+          "id": 55238,
+          "name": "Лонгслив"
+        }
+      ],
+      "fullKey": "type"
+    },
+    {
+      "name": "Высокий рейтинг",
+      "key": "is_high_rating",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ]
+    },
+    {
+      "name": "Продавец",
+      "key": "seller",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 0,
+          "name": "OZON"
+        },
+        {
+          "id": 2472077,
+          "name": "CKids-B"
+        },
+        {
+          "id": 2446314,
+          "name": "NKids-D"
+        },
+        {
+          "id": 2446317,
+          "name": "NKids-E"
+        },
+        {
+          "id": 2446309,
+          "name": "NKids-B"
+        }
+      ],
+      "fullKey": "seller"
+    },
+    {
+      "name": "Сезон",
+      "key": "season",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 33890,
+          "name": "На любой сезон"
+        },
+        {
+          "id": 31829,
+          "name": "Лето"
+        },
+        {
+          "id": 33889,
+          "name": "Демисезон"
+        },
+        {
+          "id": 82950,
+          "name": "Еврозима"
+        },
+        {
+          "id": 31827,
+          "name": "Зима"
+        }
+      ]
+    },
+    {
+      "name": "Тип застежки",
+      "key": "typeclasp",
+      "maxselect": 20,
+      "items": [
+        {
+          "id": 38167,
+          "name": "Без застежки"
+        },
+        {
+          "id": 38175,
+          "name": "Пуговицы"
+        },
+        {
+          "id": 39230,
+          "name": "Кнопки"
+        },
+        {
+          "id": 39952,
+          "name": "Эластичная"
+        },
+        {
+          "id": 38173,
+          "name": "Молния"
+        }
+      ],
+      "fullKey": "typeclasp"
+    },
+    {
+      "name": "Товары со скидкой",
+      "key": "isdiscount",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ]
+    },
+    {
+      "name": "Бестселлеры",
+      "key": "isbest",
+      "type": "toggle",
+      "items": [
+        {
+          "id": 1,
+          "name": "Да"
+        }
+      ]
+    }
+  ]
+}

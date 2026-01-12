@@ -1,0 +1,606 @@
+[
+  {
+    "name": "Футболка",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/b79f3921-4868-4ed7-9932-7f452b89c4a9.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 19650.0,
+    "basic_price": 809.0,
+    "product_price": 243.0,
+    "discount_percent": -69.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-6/7851275430.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-2/7851276326.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-9/7851275973.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-p/7851276313.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-q/7851276278.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-j/7851277063.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-modjimoda-1239824653/?at=79tn4XNV4tQ6JqjRuY5A4yVHVBv1XotrNDyr6HjmOVA2",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка VARO Набор",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 49801.0,
+    "basic_price": 3500.0,
+    "product_price": 1198.0,
+    "discount_percent": -65.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-6/7753054182.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-3/7768345395.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-b/7818202091.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-q/7818201854.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-1/7818201469.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-i/7818201810.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-varo-nabor-1644348181/?at=qQtJKyNkKco9G9j1hAZ2PBKCvW1W70FgpNp6mtmkNR1A",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 95268.0,
+    "basic_price": 1899.0,
+    "product_price": 383.0,
+    "discount_percent": -79.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-u/7140220266.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-o/7140220332.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-7/7140220279.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-w/7140220232.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-1/7709321305.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-0/7077803796.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-samo-1622854977/?at=MZtvMy3kMT2GYNqpT0NV334c7G9kVvhjAl8P0SJKNyzN",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/04d4fb97-190f-4ac6-ae45-59a83e50d50f.png",
+    "reviewRating": 4.9,
+    "count_feedbacks": 37253.0,
+    "basic_price": 2850.0,
+    "product_price": 573.0,
+    "discount_percent": -79.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-n/7212953579.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-j/6759946027.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-p/6759946033.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-i/6759946026.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-rubi-jons-1656273676/?at=oZt6jVYPjFnylWQjsw53DzBUN2mAXAfWGg71mu0OxR4g",
+    "store": "ozon"
+  },
+  {
+    "name": "Комплект футболок KingCott",
+    "brand": null,
+    "reviewRating": 4.8,
+    "count_feedbacks": 15451.0,
+    "basic_price": 2772.0,
+    "product_price": 1064.0,
+    "discount_percent": -61.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-9/7715258037.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-l/6942272961.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-l/6942272925.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-y/7239996682.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-9/6942272913.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-a/7054834042.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/komplekt-futbolok-kingcott-1427286717/?at=lRt60wEP0F7ALGBZhkXrpjQSOggjr3C1rQOGZHEX4E7W",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Свободный стиль Оверсайз",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 39386.0,
+    "basic_price": 8997.0,
+    "product_price": 1274.0,
+    "discount_percent": -85.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-x/7824574473.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-q/7805102498.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-c/7824399672.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-v/7805102503.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-t/7805102429.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-x/7805102505.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-svobodnyy-stil-oversayz-1363514831/?at=vQtrpn8LpfgqYL6KuwMg1y4IK93MvWSRYv1n7iL6OJ0Z",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Базовая",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 8597.0,
+    "basic_price": 999.0,
+    "product_price": 274.0,
+    "discount_percent": -72.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-m/7068811738.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-9/7060059693.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-s/7060059604.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-z/7060059611.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-l/7060059633.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-6/7060059654.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-bazovaya-210493994/?at=VvtzNnykNFm9LA8WuMmg2GlFw8GKj7HDRqPlzs6QVAXx",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 471.0,
+    "basic_price": 1699.0,
+    "product_price": 461.0,
+    "discount_percent": -72.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-g/7561282336.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-z/7561282571.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-n/7561282415.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-m/7561282558.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-u/7561282386.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-g/7561282480.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-2155141145/?at=LZtlyD9wyio5kLo5hw289kDCWPkGjvFyqz5n0c4mJLJ1",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка VSELENNAYA Футболка ЛЕТО 2025",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 17855.0,
+    "basic_price": 3000.0,
+    "product_price": 534.0,
+    "discount_percent": -82.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-t/7753472129.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-s/7727165668.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-v/7727165671.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-p/7727165665.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-t/7727165669.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-q/7727165666.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-vselennaya-futbolka-leto-2025-1840854809/?at=oZt6jVYPjFjpKnYRtKkL0pDTr17RQAU9Vzg7JuyjYBDN",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 40583.0,
+    "basic_price": 1999.0,
+    "product_price": 390.0,
+    "discount_percent": -80.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-a/7077856654.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-c/7077856656.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-d/7077856657.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-n/7077856667.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-b/7709347811.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-0/7077803796.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-samo-1988152807/?at=lRt60wEP0FlX2mJ5cq7Z9Qls1vroR1uO1N0LKuLlgX4Q",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/04d4fb97-190f-4ac6-ae45-59a83e50d50f.png",
+    "reviewRating": 4.9,
+    "count_feedbacks": 37253.0,
+    "basic_price": 2850.0,
+    "product_price": 531.0,
+    "discount_percent": -81.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-8/7212952916.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-4/7104455860.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-v/7156108183.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-r/7156108179.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-p/7156108177.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-m/7131070678.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-rubi-jons-1662517302/?at=36tW6gK96hyX7PY4fnMrBnBfEX4ro9sNzgOzyf0o0z9V",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 189.0,
+    "basic_price": 1699.0,
+    "product_price": 448.0,
+    "discount_percent": -73.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-f/7753082955.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-u/7753082826.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-6/7753082838.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-d/7753082917.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-i/7753082922.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-d/7753082665.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-2568002420/?at=6WtZj6m0jtjP5qXRS2Pg78Bi461VjXU6qVKNpFAywV4W",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 4.8,
+    "count_feedbacks": 83.0,
+    "basic_price": 1999.0,
+    "product_price": 406.0,
+    "discount_percent": -79.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-q/7712835038.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-w/7631392028.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-s/7631392024.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-m/7631392378.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-d/7631392045.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-u/7631391882.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-2317111145/?at=k2to8yBX8TQjonmrTpEQQ2OTrYqoR6HNG057zFR54yDn",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 6715.0,
+    "basic_price": 2180.0,
+    "product_price": 319.0,
+    "discount_percent": -85.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-w/7356025616.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-4/7356025624.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-0/7356025620.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-y/7356025618.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-3/7356025623.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-p/7356025609.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-1249180430/?at=K8tZzyWMztkJprAQu2Lr0w3fgpw8JQh8pgx7vfBLvw8k",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Базовая",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 28204.0,
+    "basic_price": 1299.0,
+    "product_price": 514.0,
+    "discount_percent": -60.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-f/7484951463.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-u/7402269198.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-s/7372403776.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-b/7397137991.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-3/7397137911.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-g/7397137960.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-bazovaya-1949078648/?at=GRt2KN4OKH7yAjJvHKNG7VoHY1EAyyi0Mp92KUKR89GN",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Базовая",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 28204.0,
+    "basic_price": 1299.0,
+    "product_price": 518.0,
+    "discount_percent": -60.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-7/7484951527.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-q/7372403774.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-u/7402269198.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-a/7364950606.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-b/7364950607.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-b/7364950355.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-bazovaya-1619768916/?at=gpt4O1ywOTE6nW4WHGxM567tQNr8jlSj4AvY3fRyDlA",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Свободный стиль Оверсайз",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 39386.0,
+    "basic_price": 9747.0,
+    "product_price": 1274.0,
+    "discount_percent": -86.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-q/7809621794.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-f/7805106087.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-5/7805106077.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-o/7805106096.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-9/7805106081.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-6/7805106078.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-svobodnyy-stil-oversayz-1296034114/?at=jYtZK4mGKtjwlpDjS7qX1ZpIr0LLQWiG6WYQyC3mRnp2",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Детская",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/37d0364b-5511-4bb8-95c7-e55304275ada.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 97087.0,
+    "basic_price": 1046.0,
+    "product_price": 249.0,
+    "discount_percent": -76.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-4/7774128436.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-2/7696372862.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-s/7692839992.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-z/7692840143.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-d/7692840013.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-1/7696372861.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-happyfox-detskaya-179685850/?at=LZtlyD9wyixVVzjmu3q5oRgCr2mPBrHPmA72vcjVWx7o",
+    "store": "ozon"
+  },
+  {
+    "name": "Комплект футболок KingCott",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 6848.0,
+    "basic_price": 2499.0,
+    "product_price": 1102.0,
+    "discount_percent": -55.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-l/7804881777.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-e/7083513050.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-f/7083513015.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-g/7083513052.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-i/7083513018.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/komplekt-futbolok-kingcott-1637575945/?at=oZt6jVYPjFNWM5VjF45yOLAtyZYlrDtgv0W8qu0xzJzr",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка vaskalion женские OS",
+    "brand": null,
+    "reviewRating": 5.0,
+    "count_feedbacks": 359.0,
+    "basic_price": 3300.0,
+    "product_price": 1685.0,
+    "discount_percent": -48.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-x/7678461453.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-v/7678461451.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-w/7678461452.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-y/7678461454.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-m/7230164854.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-4/7474542844.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-vaskalion-zhenskie-os-1741860782/?at=gpt4O1ywOTPl6vZXhvzp5kmT87x391fzQwkABFnxqAXK",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Базовая",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 31024.0,
+    "basic_price": 1299.0,
+    "product_price": 406.0,
+    "discount_percent": -68.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-a/7231456162.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-j/7231456171.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-4/7231456156.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-m/7231456174.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-2/7231456154.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-6/7231456230.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-bazovaya-1787214240/?at=pZtp10oO1F1ZMj4rUomBlpwTgyzlElHyEM8Dyi4jjDgX",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка RUMIA со стразами",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 14354.0,
+    "basic_price": 2190.0,
+    "product_price": 526.0,
+    "discount_percent": -75.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-c/7404638052.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-b/7404638519.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-c/7404638124.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-y/7404638182.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-9/7404638013.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-q/7404638102.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-rumia-so-strazami-1917368620/?at=lRt60wEP0FGOOz05hyvyP5ATZMnLyT026YwRI013nnP",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 239.0,
+    "basic_price": 1999.0,
+    "product_price": 389.0,
+    "discount_percent": -80.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-a/7590717514.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-e/7590717698.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-8/7590717476.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-3/7590717795.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-5/7590717761.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-u/7590717714.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-2229819432/?at=57tw5P9p5cDoZ5BEfJLLE7oHR1n0gkSRgvBVzT2ABpWO",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка White Box Футболки все",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 2931.0,
+    "basic_price": 1967.0,
+    "product_price": 842.0,
+    "discount_percent": -57.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-w/7267623476.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-w/7378105676.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-i/7378105734.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-v/7378105747.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-7/7378105687.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-0/7378105680.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-white-box-futbolki-vse-1652690991/?at=16tL2AGB2tkKx6gNiB2PLExiWzJ5P2UODOYB8tqoo9ol",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка SiDaha Базовая",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 23658.0,
+    "basic_price": 1500.0,
+    "product_price": 267.0,
+    "discount_percent": -82.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-4/7492224028.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-1/7470243325.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-7/7470243331.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-a/7470243334.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-0/7470243324.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-5/7470243329.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-sidaha-bazovaya-1671999823/?at=pZtp10oO1F0ooAmoCRDP5X3Twr4EPXt2zpBE3TwEzJ97",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Galala Базовая коллекция",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 11799.0,
+    "basic_price": 4800.0,
+    "product_price": 1357.0,
+    "discount_percent": -71.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-6/7733099058.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-5/7524441149.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-9/7524441045.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-x/7524441177.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-c/7524441084.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-k/7524441056.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-galala-bazovaya-kollektsiya-1248931546/?at=ywtAqPo2quAzlvoZFXGD6g0FXXqpYriroPlVOHvY7kXV",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 5.0,
+    "count_feedbacks": 35.0,
+    "basic_price": 1999.0,
+    "product_price": 499.0,
+    "discount_percent": -75.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-v/7729786651.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-m/7729786606.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-g/7729786600.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-z/7729786691.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-u/7729786614.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-x/7729786617.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-2524144451/?at=k2to8yBX8TJr488zs8P9lzGfG90xk4tpBA6nptMl9GpO",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Базовая",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 13658.0,
+    "basic_price": 1799.0,
+    "product_price": 418.0,
+    "discount_percent": -76.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-f/7241462331.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-l/7241462337.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-a/7241462326.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-2/7241462318.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-d/7241462329.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-v/7285675171.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-bazovaya-1603579317/?at=z6tOQYqwQclKgvO6fRgA298F6JRXnVFO4GjrrhnJ4612",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 40583.0,
+    "basic_price": 1999.0,
+    "product_price": 390.0,
+    "discount_percent": -80.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-r/7077822579.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-8/7077822452.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-o/7077822576.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-5/7077822449.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-z/7709341499.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-0/7077803796.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-samo-1988145603/?at=LZtlyD9wyikY0XrmFAxxGg5IyvOvlvHRPAM4WsK2EXvK",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка MIKA LOVE",
+    "brand": null,
+    "reviewRating": 4.7,
+    "count_feedbacks": 7459.0,
+    "basic_price": 2350.0,
+    "product_price": 625.0,
+    "discount_percent": -73.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-e/7758985658.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-7/7444500955.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-r/7444500975.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-2/7444500950.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-m/7443181462.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-s/7443181468.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-mika-love-899355565/?at=LZtlyD9wyiXmEVjNTKXZMrjuyO87oxIVZO254UvQQNZj",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Jovenly однотонная летняя",
+    "brand": null,
+    "reviewRating": 4.9,
+    "count_feedbacks": 2668.0,
+    "basic_price": 9500.0,
+    "product_price": 1206.0,
+    "discount_percent": -87.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-e/7819239326.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-4/7663364104.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-a/7663364506.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-i/7663364046.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-2/7663364570.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-c/7592946096.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-jovenly-odnotonnaya-letnyaya-2115539096/?at=16tL2AGB2tKvoMOkHoX5NJ3UVq57D6svmqXXNtm3JmYK",
+    "store": "ozon"
+  },
+  {
+    "name": "Футболка Базовая",
+    "brand": "https://cdn1.ozonusercontent.com/s3/product-service-meta-media/86cb7ced-e357-43e2-a24a-baaf3c1ea8e5.jpg",
+    "reviewRating": 4.9,
+    "count_feedbacks": 31024.0,
+    "basic_price": 1299.0,
+    "product_price": 422.0,
+    "discount_percent": -67.0,
+    "images": [
+      "https://cdn1.ozone.ru/s3/multimedia-1-g/7469519488.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-m/7469532418.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-z/7469519435.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-8/7469520020.jpg",
+      "https://cdn1.ozone.ru/s3/multimedia-1-z/7469514503.jpg"
+    ],
+    "link": "https://www.ozon.ru/product/futbolka-tvoe-bazovaya-2034293533/?at=MZtvMy3kMTOAKVrGuj4lVWYcVoLVggIrZ0opAHrorGnB",
+    "store": "ozon"
+  }
+]
