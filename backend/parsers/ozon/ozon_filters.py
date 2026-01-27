@@ -7,36 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.service import Service
-
-def create_stealth_driver():
-    user_agent = (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 YaBrowser/25.4.0.0 Safari/537.36"
-    )
-    options = uc.ChromeOptions()
-    
-    options.add_argument("--headless=new")
-    options.add_argument("--disable-extensions")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--disable-web-security")
-    options.add_argument(f"--user-agent={user_agent}")
-
-    path = os.path.join(os.getcwd(), "chromedriver")
-    service = Service(path)
-    
-    print("Start driver")
-    driver = uc.Chrome(options=options, version_main=138)
-    print("Driver starting")
-    driver.get("https://www.ozon.ru/")
-    try:
-        print("wait layout")
-        wait = WebDriverWait(driver,10)
-        wait.until(EC.presence_of_element_located((By.ID, "layoutPage")))
-        print(f"layout load")
-    except:
-        print(f"!!!10 sec not away layout!!!")
-    return driver
+from ..driver_utils import create_stealth_driver
 
 def _filters_state(ozon_json: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     ws = ozon_json.get("widgetStates", {})
