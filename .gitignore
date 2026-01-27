@@ -1,0 +1,26 @@
+# Environment files
+.env
+.env.*
+*.env
+
+# Python compiled files and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
